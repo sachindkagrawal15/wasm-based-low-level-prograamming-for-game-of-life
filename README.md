@@ -1,13 +1,13 @@
 <div align="center">
 
   <h1>Game of Life</h1>
-  <strong><a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Conway's Game of Life</a> implementation using Rust, Javascript and WebAssembly!</strong>
+  <strong><a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">wasm based low level programming implementation of Game of Life</a> implementation using Rust, Javascript and WebAssembly!</strong>
 
 </div>
 
 ## About
 
-Try it out at <https://wasm-game-of-life.shalzz.now.sh>!
+Try it out at <https://wasm-game-of-life.sachin.now.sh>!
 
 ## Run
 

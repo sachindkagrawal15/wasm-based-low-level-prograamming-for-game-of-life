@@ -7,7 +7,7 @@
 
 ## About
 
-Try it out at <https://wasm-game-of-life.sachin.now.sh>!
+Try it out at <https://wasm-game-of-life.sachin.now.sh>! for practice
 
 ## Run
 
